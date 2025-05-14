@@ -1,87 +1,50 @@
----
+# NEXUS-AI 
 
-<a><img src='https://i.ibb.co/0p2bWfbv/nexus-xmd.jpg'/></a>
+<!-- Glowing Header -->
 
----
-    
-> **`Updated To` The Version 5.0**
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+NEXUS+AI+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+Pkdriller💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
+</h1>
 
-```
-NEXUS-AI BY PK DRILLER 
-```
----
+<!-- Banner Image -->
+<p align="center">
+  <a href="https://files.catbox.moe/3u88n0.webp">
+    <img src="https://files.catbox.moe/ts2az9.jpg" width="100%" height="auto">
+  </a>
+</p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
 
- 
+<!-- Action Buttons -->
+<p align="center">
+  <a href="https://nexus-ai-pair.onrender.com/">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
+   </a>
+</p>
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/NEXUS-AI/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/👻_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://railway.app?referralCode=AqkNn4">
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/👻_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&color=purple" width="260" height="50"/>
+  </a>
+</p>
+<!-- Glowing Footer -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
----
-### 1. Fork This Repository
-
-**Start by forking this repository to your own GitHub account. Click the button below to fork:**
-
-  <a href="https://github.com/Pkdriller/NEXUS-AI/fork"><img title="NEXUS-AI" src="https://img.shields.io/badge/FORK-NEXUS AI-h?color=blue&style=for-the-badge&logo=stackshare"></a>
-  
-### 2. Get Session ID 
-
-**You will need a session ID to run the NEXUS-AI. Click the button below to obtain your session ID.if any error in loading site try vpn:**
-
-> **Get Pair Code (Session ID)**
-
-<a href='https://nexus-ai-pair.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-<h2 align="center">Deployment Section</h2>
-
----
-
-<h4 align="center">1. Heroku</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+NEXUS+AI+Edition+by+Pkdriller👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+</h3>
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/Pkdriller/NEXUS-AI' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
----
-
-<h4 align="center">2. Railway</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
----
-
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=250 height=45/p></a>
-
----
-
-<h4 align="center">3. Render</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
----
-  
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=250 height=45/p></a>
-
----
-
-<h4 align="center">4. Netlify</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
----
- 
-<p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=netlify&logoColor=white'/< width=250 height=45/p></a> </a>
-
----
-
-<h4 align="center">5. Replit</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
----
-
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=250 height=45/p></a> </a>
- -
